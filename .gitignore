@@ -60,3 +60,5 @@ autom4te.cache/
 
 .project
 .cproject
+.settings/
+.autotools
